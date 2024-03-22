@@ -1,0 +1,15 @@
+
+site_name: html-fu Python Package
+site_description: Generate HTML with Python code (no templating)
+site_author: Don Parakin
+repo_url: https://github.com/weaddvalue/html-fu
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+nav:
+  - 'Home': 'index.md'
+
+#-----------------------------------------------------------------------
+# Ref: https://www.mkdocs.org/user-guide/writing-your-docs/
